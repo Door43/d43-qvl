@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qvl:home|Door43 (qvl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qvl|d43-qvl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qvl/archive/master.zip|d43-qvl.zip]]
+
+**Recent Changes**
+{{changes>ns = qvl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qvl|Ethnologue data]]
+
